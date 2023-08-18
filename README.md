@@ -1,7 +1,7 @@
 # TicTacToeJava
 Realización de una aplicación de escritorio del juego Tic Tac Toe (en inglés) utilizando Java Swing
 
-Realización del juego Tic Tac Toe con ayuda de java swing, para utilizarlo se recomienda el entorno de desarrollo de netbeans ⚒️🧩🛜
+Para utilizarlo se recomienda el entorno de desarrollo de netbeans ⚒️🧩🛜
 
 ♦️♣️♠️👾🪅
 
